@@ -1,0 +1,28 @@
+{
+  "name": "async-testing-with-jest-fake-timers-and-promises",
+  "version": "1.0.0",
+  "description": "Async testing with jest fake timers and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll=false",
+    "test:watch": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apieceofbart/async-testing-with-jest-fake-timers-and-promises.git"
+  },
+  "keywords": [
+    "jest",
+    "timers",
+    "promises"
+  ],
+  "author": "Bartek Kozera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apieceofbart/async-testing-with-jest-fake-timers-and-promises/issues"
+  },
+  "homepage": "https://github.com/apieceofbart/async-testing-with-jest-fake-timers-and-promises#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
